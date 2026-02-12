@@ -314,6 +314,9 @@
 										<li class="usa-nav__submenu-item">
 											<a href="sample-pages-contact-form.html">Contact Us Form</a>
 										</li>
+										<li class="usa-nav__submenu-item">
+											<a href="new-contact-page.html">Contact Us New</a>
+										</li>
 									</ul>
 								</div>
 							</div>
